@@ -1,7 +1,7 @@
 # XRGestures
 
 A simple and sophisticated framework and toolkit to enable easy gesture creation and gesture recognition.
-This software was primarily tested using the Vicon system.
+This software was primarily tested using the Vicon system. Can be used with a normal VR setup. i.e only controllers and HMD.
 Uses modular function components to construct gestures.
 
 Advantages
